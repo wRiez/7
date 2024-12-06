@@ -1,0 +1,14 @@
+D:\projects\voda\voda\bin\Debug\net8.0\voda.exe
+D:\projects\voda\voda\bin\Debug\net8.0\voda.deps.json
+D:\projects\voda\voda\bin\Debug\net8.0\voda.runtimeconfig.json
+D:\projects\voda\voda\bin\Debug\net8.0\voda.dll
+D:\projects\voda\voda\bin\Debug\net8.0\voda.pdb
+D:\projects\voda\voda\obj\Debug\net8.0\voda.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\voda\voda\obj\Debug\net8.0\voda.AssemblyInfoInputs.cache
+D:\projects\voda\voda\obj\Debug\net8.0\voda.AssemblyInfo.cs
+D:\projects\voda\voda\obj\Debug\net8.0\voda.csproj.CoreCompileInputs.cache
+D:\projects\voda\voda\obj\Debug\net8.0\voda.dll
+D:\projects\voda\voda\obj\Debug\net8.0\refint\voda.dll
+D:\projects\voda\voda\obj\Debug\net8.0\voda.pdb
+D:\projects\voda\voda\obj\Debug\net8.0\voda.genruntimeconfig.cache
+D:\projects\voda\voda\obj\Debug\net8.0\ref\voda.dll
